@@ -275,4 +275,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.idea/
+out
+learning-java.iml
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,intellij,jetbrains,java
